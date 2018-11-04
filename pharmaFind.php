@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	"anaesthetic" => array("Raths-Apotheke","Vital Apotheke","Delfin Apotheke"),
 	"antibiotic" => array("Delfin Apotheke","Albert Apotheke"), 
 	"antifungal" => array("Kronen Apotheke"),
-	"antianxiety" => array("Kronen Apotheke","a","Raths-Apotheke"));
+	"antianxiety" => array("Kronen Apotheke","Delfin Apotheke","Raths-Apotheke"));
 	
 	//shops "database", shop => "distance to user's location"
 	$shops = array("Delfin Apotheke" => 15, "Kronen Apotheke" => 23,
