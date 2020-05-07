@@ -8,3 +8,4 @@ This would be updated by the pharmacies themselves in the future, but for the ha
 
 In this app the user would be able to look up a certain drug and they would receive the closest pharmacies which had it in stock.
 
+.
